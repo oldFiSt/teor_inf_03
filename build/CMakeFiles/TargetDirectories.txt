@@ -1,0 +1,3 @@
+D:/proga/teor_inf03/build/CMakeFiles/23.dir
+D:/proga/teor_inf03/build/CMakeFiles/edit_cache.dir
+D:/proga/teor_inf03/build/CMakeFiles/rebuild_cache.dir
